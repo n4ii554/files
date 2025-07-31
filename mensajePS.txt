@@ -1,0 +1,2 @@
+Add-Type -AssemblyName PresentationFramework
+[System.Windows.MessageBox]::Show("Simulacion de ataque: tu equipo podría haber estado comprometido.")
